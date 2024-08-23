@@ -1,3 +1,6 @@
+/*Problem Statement: Create a Car class with properties like make, model, year, and speed. Implement methods accelerate() to increase the speed by a given amount 
+and brake() to decrease the speed. Instantiate the Car class, simulate a few accelerations and braking events, and display the results.*/
+
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
